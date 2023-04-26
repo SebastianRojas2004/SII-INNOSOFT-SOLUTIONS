@@ -1,0 +1,69 @@
+.formulario{
+    width: 100%;
+    background: black;
+    border-radius: 4px;
+    padding: 13px;
+    color: white;
+    font-family: 'Ubuntu', 'Times New Roman', Times, serif;
+    font-size: large;
+    
+}
+.botoncito{
+    width: 100%;
+    padding: 10px;
+    background: black;
+    color: white;
+    font-family: 'Ubuntu', 'Times New Roman', Times, serif ;
+    font-size: 130%;
+}
+.formulario-turnos{
+    width: 100%;
+    background: white;
+    border-radius: 4px;
+    padding: 13px;
+    color: black;
+    font-family: 'Ubuntu', 'Times New Roman', Times, serif;
+    font-size: large;
+    
+}
+.botoncito-turnos{
+    margin: 10px 10px;
+    width: 40%;
+    padding: 10px;
+    background: black;
+    color: white;
+    font-family: 'Ubuntu', 'Times New Roman', Times, serif ;
+    font-size: 100%;
+}
+.textarea-turnos{
+    top: 165px ;
+    bottom: auto;
+    left: 50%;
+    right: 0px;
+    max-width: 500px;
+    max-height: 250px;
+    min-width: 500px;
+    min-height: 250px;
+    margin: 20px;
+}
+.formulario-vehiculo{
+    width: 100%;
+    background: white;
+    border-radius: 4px;
+    padding: 13px;
+    color: black;
+    font-family: 'Ubuntu', 'Times New Roman', Times, serif;
+    font-size: large;
+    
+}
+.botoncito-vehiculo{
+    margin: 10px 10px;
+    position: relative;
+    left: 26%;
+    width: 40%;
+    padding: 10px;
+    background: black;
+    color: white;
+    font-family: 'Ubuntu', 'Times New Roman', Times, serif ;
+    font-size: 100%;
+}
